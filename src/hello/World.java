@@ -6,5 +6,13 @@ public class World {
 		System.out.println("Hello World!");
 
 	}
+	
+	
+	public String me() {
+		
+		String s = "Hello to me";
+		
+		return s;
+	}
 
 }
