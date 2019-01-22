@@ -14,5 +14,11 @@ public class World {
 		
 		return s;
 	}
+	
+	public String toString() {
+		
+		return "overwritten";
+		
+	}
 
 }
