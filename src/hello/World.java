@@ -3,6 +3,13 @@ package hello;
 public class World {
 	
 	private int age;
+	
+
+	public World(int age) {
+		super();
+		this.age = age;
+	}
+
 
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
